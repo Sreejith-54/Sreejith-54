@@ -64,12 +64,6 @@ Currently working on strengthening real-time integration patterns and scalable R
 </p>
 ---
 
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreejith-54&theme=github)
-
----
-
 ## 📫 Connect
 
 - LinkedIn: https://linkedin.com/in/your-link

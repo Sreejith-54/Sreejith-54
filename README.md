@@ -5,11 +5,11 @@ Full Stack Developer • Interactive UI • Real-Time Systems
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Computer Science student building dynamic web systems that combine clean UI interaction with strong backend integration.
 
-Interested in:
+Primary interests:
 - UI interaction systems
 - API-driven applications
 - Real-time data handling
@@ -19,7 +19,7 @@ Currently strengthening scalable React architecture and real-time communication 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -46,7 +46,7 @@ Currently strengthening scalable React architecture and real-time communication 
 
 ---
 
-## 🧠 Current Engineering Focus
+## Current Focus
 
 - Component-driven React architecture  
 - Predictable state management patterns  
@@ -56,35 +56,36 @@ Currently strengthening scalable React architecture and real-time communication 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 React Roadmap Challenge Platform
+### React Roadmap Challenge Platform
 Interactive roadmap system with vertical progress tracking and dynamic task alignment.
 
-**Tech:** React, Tailwind CSS, Framer Motion  
-**Highlights:**
+Tech: React, Tailwind CSS, Framer Motion  
+Highlights:
 - Dynamic UI reordering based on completion state  
 - Modular component hierarchy  
 - Modal-driven submission workflow  
 
-[Repository Link](#) | [Live Demo](#)
+Repository: #  
+Live Demo: #
 
 ---
 
-### 🔹 Real-Time Sign Language Assistant
+### Real-Time Sign Language Assistant
 Web-based assistant integrating API-driven responses with sign-based output rendering.
 
-**Tech:** React, Node.js, WebSocket  
-**Highlights:**
+Tech: React, Node.js, WebSocket  
+Highlights:
 - Real-time token streaming  
 - Video-based sign rendering system  
 - Async backend processing optimization  
 
-[Repository Link](#)
+Repository: #
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sreejith-54&theme=github-dark&hide_border=true" />
@@ -92,13 +93,11 @@ Web-based assistant integrating API-driven responses with sign-based output rend
 
 ---
 
-## 📫 Connect
+## Contact
 
-<p>
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://your-portfolio-link.com">Portfolio</a> •
-  <a href="mailto:yourmail@example.com">Email</a>
-</p>
+LinkedIn: https://linkedin.com/in/your-link  
+Portfolio: https://your-portfolio-link.com  
+Email: yourmail@example.com  
 
 ---
 

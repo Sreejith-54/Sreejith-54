@@ -9,13 +9,13 @@ Full Stack Developer • Interactive UI • Real-Time Systems
 
 Computer Science student building dynamic web systems that combine clean UI interaction with strong backend integration.
 
-I’m particularly interested in:
+Interested in:
 - UI interaction systems
 - API-driven applications
 - Real-time data handling
 - Structured full-stack architecture
 
-Currently focused on strengthening scalable React architecture and real-time communication fundamentals.
+Currently strengthening scalable React architecture and real-time communication fundamentals.
 
 ---
 
@@ -23,17 +23,25 @@ Currently focused on strengthening scalable React architecture and real-time com
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwind-css" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=flat&logo=firebase" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=flat&logo=vite" />
+  <img src="https://img.shields.io/badge/VSCode-111111?style=flat&logo=visual-studio-code" />
 </p>
 
 ---
@@ -76,19 +84,6 @@ Web-based assistant integrating API-driven responses with sign-based output rend
 
 ---
 
-### 🔹 Animated Interactive Carousel
-Gesture-aware carousel with controlled animations and conditional transitions.
-
-**Tech:** React, Framer Motion  
-**Highlights:**
-- Swipe gesture handling  
-- Controlled animation state management  
-- Conditional rendering logic  
-
-[Repository Link](#)
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -106,3 +101,5 @@ Gesture-aware carousel with controlled animations and conditional transitions.
 </p>
 
 ---
+
+Focused on building systems, not just pages.

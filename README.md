@@ -52,15 +52,15 @@ Currently working on strengthening real-time integration patterns and scalable R
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreejith-54&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Sreejith-54&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejith-54&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sreejith-54&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejith-54&theme=github-compact&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreejith-54&theme=github_dark" />
 </p>
 ---
 

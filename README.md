@@ -91,13 +91,6 @@ Repository: #
   <img src="https://streak-stats.demolab.com?user=Sreejith-54&theme=github-dark&hide_border=true" />
 </p>
 
----
-
-## Contact
-
-LinkedIn: https://linkedin.com/in/your-link  
-Portfolio: https://your-portfolio-link.com  
-Email: yourmail@example.com  
 
 ---
 
